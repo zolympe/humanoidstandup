@@ -1,4 +1,4 @@
-# humanoidstandup
+# humanoidstandup /mujoco
 Projet RL Cours Mikael
 Cegep Saint Foy
 
