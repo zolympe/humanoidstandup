@@ -4,6 +4,9 @@ Cegep Saint Foy
 
 Essai Apprentissage par renforcement sur HumanoidStandup V2
 
+Le modèle le plus stable pour tester est DDPG-pytorch
+
+
 sample.py permet de jouer simplement le modele.
 
 DDPG-pytorch : entrainement avec algo DDPG
